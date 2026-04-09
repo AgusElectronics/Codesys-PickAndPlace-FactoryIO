@@ -9,7 +9,7 @@ Puedes ver el código fuente completo aquí: [Click aqui!](https://raw.githubuse
 
 ## 🎥 Demostración
 *[¡Importante! Sube aquí un GIF o un enlace a YouTube de 30 segundos donde se vea Factory I/O funcionando a la vez que tu código]*
-![Demostración del sistema](enlace_a_tu_gif_o_imagen.gif)
+![Demostración del sistema](https://docs.factoryio.com/manual/scenes/pick-and-place-xyz/)
 
 ## ⚙️ Características Técnicas Destacadas
 He diseñado el software enfocándome en la fiabilidad, la seguridad y la optimización del tiempo de ciclo:
@@ -40,4 +40,4 @@ He diseñado el software enfocándome en la fiabilidad, la seguridad y la optimi
 * **Simulación Planta:** Factory I/O
 
 ---
-*Desarrollado por [Tu Nombre/Agustín Muñoz Santucho] - [Enlace a tu LinkedIn]*
+*Desarrollado por Agustín Muñoz Santucho - [Enlace a tu LinkedIn](https://www.linkedin.com/in/agustín-muñoz-santucho-1651062b5/)*
