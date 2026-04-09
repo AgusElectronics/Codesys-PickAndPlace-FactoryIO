@@ -8,8 +8,7 @@ El objetivo del proyecto es automatizar el proceso de clasificación y paletizad
 Puedes ver el código fuente completo aquí: [Click aqui!](https://raw.githubusercontent.com/AgusElectronics/Codesys-PickAndPlace-FactoryIO/refs/heads/main/Main_Control.st)
 
 ## 🎥 Demostración
-*[¡Importante! Sube aquí un GIF o un enlace a YouTube de 30 segundos donde se vea Factory I/O funcionando a la vez que tu código]*
-![Demostración del sistema](https://docs.factoryio.com/manual/scenes/pick-and-place-xyz/)
+[Demostración del sistema](https://docs.factoryio.com/manual/scenes/pick-and-place-xyz/)
 
 ## ⚙️ Características Técnicas Destacadas
 He diseñado el software enfocándome en la fiabilidad, la seguridad y la optimización del tiempo de ciclo:
@@ -40,4 +39,4 @@ He diseñado el software enfocándome en la fiabilidad, la seguridad y la optimi
 * **Simulación Planta:** Factory I/O
 
 ---
-*Desarrollado por Agustín Muñoz Santucho - [Enlace a tu LinkedIn](https://www.linkedin.com/in/agustín-muñoz-santucho-1651062b5/)*
+*Desarrollado por Agustín Muñoz Santucho - [Enlace a mi LinkedIn](https://www.linkedin.com/in/agustín-muñoz-santucho-1651062b5/)*
