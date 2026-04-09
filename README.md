@@ -5,7 +5,7 @@ Este repositorio contiene la lógica de control para una célula robótica indus
 ## 📌 Descripción del Proyecto
 El objetivo del proyecto es automatizar el proceso de clasificación y paletizado de piezas. Un brazo robótico cartesiano (3 ejes) recoge piezas de una cinta de entrada y las organiza sobre un palet siguiendo un patrón específico (incluyendo rotación de piezas). Una vez el palet está completo, el sistema lo evacúa y reinicia el ciclo.
 
-Puedes ver el código fuente completo aquí: [Enlace a tu archivo .st](ruta_a_tu_archivo.st)
+Puedes ver el código fuente completo aquí: [Enlace a tu archivo .st]([ruta_a_tu_archivo.st](https://raw.githubusercontent.com/AgusElectronics/Codesys-PickAndPlace-FactoryIO/refs/heads/main/Main_Control.st))
 
 ## 🎥 Demostración
 *[¡Importante! Sube aquí un GIF o un enlace a YouTube de 30 segundos donde se vea Factory I/O funcionando a la vez que tu código]*
